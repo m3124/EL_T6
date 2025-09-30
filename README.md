@@ -1,7 +1,7 @@
 # Sales Aggregation Queries
 
 ## Dataset
-- **Source:** `thelook_orders.csv`  
+- **Source:** `BigQuery Public Dataset – thelook_ecommerce`  
 - **Table Name:** `sales`  
 - **Columns:**
   | Column       | Description                      |
